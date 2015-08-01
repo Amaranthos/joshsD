@@ -57,11 +57,11 @@ struct Matrix {
 		return result;
 	}
 
-	string toString() {
-		string output;
+	//string toString() {
+	//	string output;
 
-		for (int i = 0; i < cols; i++) {
+	//	for (int i = 0; i < cols; i++) {
 
-		}
-	}
+	//	}
+	//}
 }
